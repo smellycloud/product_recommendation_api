@@ -3,7 +3,7 @@ Large Language Model wrapped in an API to analyse and compile product recommenda
 
 ## .....Why?
 
-To save time and effort in researching durable goods while ensuring that you make informed decisions based on real user experiences and opinions.
+To save time and effort in researching durable goods while ensuring that you make informed decisions based on real user experiences and opinions. Also because I need it.
 
 ## Why? (but in more detail)
 
