@@ -54,7 +54,7 @@ class Gather:
         )
 
         task2 = Task(
-            description='Write compelling listicle about ' + self.product + ' to buy and why based on reddit '
+            description='Write a compelling listicle about ' + self.product + ' to buy and why based on reddit '
                                                                             'community feedback. Only use '
                                                                             'information obtained from Reddit',
             agent=writer
