@@ -12,6 +12,22 @@ To save time and effort in researching durable goods while ensuring that you mak
 * By using r/BuyItForLife as a reference, you can make eco-friendly choices that minimise your environmental footprint by reducing the amount of waste generated from disposable or low-quality items.
 * Finding high-quality products through r/BuyItForLife saves time and effort in researching and comparing different options. The community members have already done the legwork for you, so you can trust their recommendations to find durable and long-lasting items that meet your needs.
 
+## Requirements
+
+1. [Ollama](https://ollama.ai/)
+
+## Instructions
+
+* To prepare the environment (only on the first run)
+`chmod +x prep_environment.sh & ./prep_environment.sh`
+
+* Get the LLM running
+`ollama run openhermes`
+
+* Run the server
+`chmod +x run.sh & ./run.sh`
+
+
 ## How does it work?
 
 ![rec drawio (1)](https://github.com/smellycloud/product_recommendation_api/assets/52908667/afb80010-f687-4d48-b189-74d0de0285d7)
