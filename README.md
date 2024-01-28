@@ -14,7 +14,8 @@ To save time and effort in researching durable goods while ensuring that you mak
 
 ## How does it work?
 
-![rec drawio](https://github.com/smellycloud/product_recommendation_api/assets/52908667/4a2351d1-4d04-414a-b8af-64055b428c8d)
+![rec drawio (1)](https://github.com/smellycloud/product_recommendation_api/assets/52908667/afb80010-f687-4d48-b189-74d0de0285d7)
+
 
 ## Screenshots
 ![4](https://github.com/smellycloud/product_recommendation_api/assets/52908667/13a6756f-b63f-40f5-8dab-8486ebc44087)
