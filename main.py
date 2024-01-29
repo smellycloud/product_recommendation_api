@@ -11,4 +11,4 @@ async def root():
 
 @app.post("/query/")
 async def query(product: str = Form(...)):
-    return {"product": Gather(product=product).run()}
+    return {"product": Gather(product=product, verbose=True).run()}
