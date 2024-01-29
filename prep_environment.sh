@@ -15,5 +15,5 @@ else
     echo "The file $REQUIREMENTS_FILE does not exist."
 fi
 
-# Install uvicorn
-pip install uvicorn
+# Install remaining packages
+pip install uvicorn duckduckgo-search
