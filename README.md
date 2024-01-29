@@ -1,6 +1,6 @@
 # product_recommendation_api
 Reddit-Powered Product Recommendation System with OpenHermes 2.5 LLM based on Mistral 7B and a focus on sustainable consumption.   
-**Note:** Product recommendations are generated locally, ensuring user privacy and data protection. The project requires at least 16GB of RAM to run the [OpenHermes LLM](https://ollama.ai/library/openhermes).
+**Note:** Product recommendations are generated locally, ensuring user privacy and data protection. The project requires at least 16GB of VRAM to run the [OpenHermes LLM] (https://ollama.ai/library/openhermes) reliably.
 
 ## Why?
 
