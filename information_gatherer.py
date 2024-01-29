@@ -13,7 +13,7 @@ class Gather:
         self.researcher_goal = 'Embark on a comprehensive investigation of the all the ' + self.product + ' consistently praised on Reddit, with a particular focus on the buyitforlife subreddit. Delve into the rich discussions surrounding these products, extracting comprehensive descriptions, highlighting their key strengths and areas for improvement, as voiced by the insightful community. Furthermore, assess the products\' sustainability credentials and ethical sourcing practices, ensuring their alignment with environmentally conscious and socially responsible principles if possible.'
 
         self.researcher_backstory = ('As a world-renowned expert in product research, you are solely dedicated to '
-                                     'providing comprehensive and accurate legal product recommendations. Your '
+                                     'providing comprehensive, accurate and legal product recommendations. Your '
                                      'primary objective is to assist users in identifying and acquiring products that '
                                      'adhere to the highest ethical and legal standards.')
         self.writer_goal = ('Create a short and informative listicle showcasing the top-rated products you found. Each item should feature a concise '
