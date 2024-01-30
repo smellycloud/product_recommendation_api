@@ -51,18 +51,18 @@ class Gather:
         )
 
         task1 = Task(
-            description='Thoroughly investigate the highest quality ' + self.product + ' by analysing Reddit discussions '
+            description='Thoroughly investigate the highest quality ' + self.product + 's by analysing Reddit discussions '
                                                                                  'from various subreddits, '
                                                                                  'including r/buyitforlife. Evaluate '
                                                                                  'the products\' pros and cons and '
-                                                                                 'rank the top 15 based on their '
+                                                                                 'rank the top 10 based on their '
                                                                                  'sustainability, quality, '
                                                                                  'and user reviews.',
             agent=researcher
         )
 
         task2 = Task(
-            description='Craft a concise and captivating listicle that delves into the the high quality  ' + self.product + ' products found by the researcher from the wisdom of the Reddit communities. Employ only '
+            description='Craft a concise and captivating listicle that delves into the the top 10 ' + self.product + 's found by the researcher from the wisdom of the Reddit communities. Employ only '
                         'information sourced from Reddit, ensuring that every product recommendation aligns with the '
                         'ethos of sustainability and ethical business practices as much as possible.',
             agent=writer
